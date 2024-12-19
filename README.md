@@ -1,22 +1,16 @@
 ﻿# Java_lr5
 ## Варіант 11
 ## Дії:<br>
-<h1>Модифікація лабораторної роботи 2:</h1>
-С3 = 2 (StringBuffer)
 
-![image](https://github.com/user-attachments/assets/49722d70-d08a-4195-a9e0-23eb16668f34)
-
-
-С17 = 11 (Із заданого тексту видалити всі слова визначеної довжини, що починаються з приголосної літери.)
-![image](https://github.com/user-attachments/assets/1fd5396d-a6ed-48ee-b4c1-4590566f4148)
-![image](https://github.com/user-attachments/assets/fab9a36c-32c0-4678-9d12-cbf8da709eb8)
+С13 = 11
+![image](https://github.com/user-attachments/assets/54216520-6820-49fe-b3a5-acdbc017f8d4)
+![image](https://github.com/user-attachments/assets/789be6af-d422-4050-89df-f99b8dcabae1)
 
 ## Інструкція з встановлення
 
-
 1. Клонуйте репозиторій:
     ```bash
-    git clone https://github.com/XBOXseer/Java_lr4.git
+    git clone https://github.com/XBOXseer/Java_lr5.git
     ```
 
 2. Перейдіть у директорію проєкту:
@@ -33,3 +27,11 @@
 3. Результати виконання з'являться в консолі.
 
 ## Приклад роботи
+<h1>1)</h1>
+
+![image](https://github.com/user-attachments/assets/02df83fb-11f5-43fb-bf9a-8238c0156237)
+
+<h1>2)</h1>
+
+![image](https://github.com/user-attachments/assets/6a97e393-984e-4376-ba6b-2c135e55b7d7)
+![image](https://github.com/user-attachments/assets/d7c09514-ccfd-4dda-8b37-2369cd379e1d)
